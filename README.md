@@ -1,1 +1,1 @@
-# ITEP_R_PROJECT
+# git workshop
